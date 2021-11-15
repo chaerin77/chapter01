@@ -29,6 +29,8 @@ public class Ex04 {
 	   System.out.println("당신의 이름은 " +name+ " 나이는" + age + " 입니다."); 
 	   
 	   
+	   System.out.println("깃 테스트-버전03");
+	   
 	   sc.close(); //아 이거 넣는거깜빡 맨첨에 쓸때 써주고 가운데다가 짜야겠다
 		
 	}
